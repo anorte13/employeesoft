@@ -1,2 +1,4 @@
 # EmployeeSoft
-Amn employee management system created with the MERN stack that allows users to seamlessely do CRUD operations
+An employee management system created with the MERN stack and RESTful API elements that allow users to seamlessely do CRUD operations. 
+
+
